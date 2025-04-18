@@ -5,6 +5,7 @@ The data covers the scripts of seasons 1-10. Each season has its own CSV file an
 Example:
 
 id,speaker,speech,context,raw-dialouge,season,episode,title,airdate,runtime
+
 1051,Villain," Oh, no! The Raging Whirlpool! ",holds a baby's lollipop and he spots the whirlpool the whirlpool catches him and the lollipop falls on the baby's tongue,"[holds a baby's lollipop and he spots the whirlpool] Oh, no! The Raging Whirlpool! [the whirlpool catches him and the lollipop falls on the baby's tongue]",01,12,Mermaid Man and Barnacle Boy,21-Aug-99,10
 
 Headers:
